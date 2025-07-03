@@ -1,2 +1,19 @@
-# Simple-Robotic-Arm
-This is my first prototype of a simple robotic arm, created using Tinkercad.  The arm is designed for learning purposes and for testing movement with servo motors.   The STL file is included for 3D printing or further customization.  More updates and improvements may be added in future versions.
+## Simple Robotic Arm – First Prototype
+
+This is my first attempt at building a robotic arm using Tinkercad.  
+The design focuses on simple joint movement and serves as a starting point for future improvements.
+
+## Tinkercad Link:
+You can view or remix the project directly on Tinkercad:
+https://www.tinkercad.com/things/9JXMk7B2QMq-simple-robotic-arm
+
+## Possible Uses
+- Educational tool for learning basic robotic arm design.
+- Base model for practicing servo motor integration and motion logic.
+- Starting point for 3D printing and customizing mechanical arms.
+- You can build on this prototype and add servos, joints, or electronics later.
+
+## Notes
+- This is an early version meant for educational and experimental use.
+- Feedback and suggestions are welcome.
+- More versions may be published in the future.
